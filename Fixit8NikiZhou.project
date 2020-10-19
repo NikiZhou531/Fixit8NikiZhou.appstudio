@@ -50,14 +50,6 @@
             "Welcome",
             "Welcome.json"
           ]
-        },
-        {
-          "!type": "External",
-          "file": [
-            "forms",
-            "TwoControls",
-            "TwoControls.json"
-          ]
         }
       ],
       "configxml": null,
@@ -79,7 +71,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "TwoControls",
+      "firstform": "calculator",
       "fontFamily": "system",
       "homescreenTitle": "",
       "icon": "nsb/images/192.png",
